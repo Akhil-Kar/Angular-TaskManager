@@ -1,8 +1,12 @@
 # TaskManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+Install using 'npm install -g @angular/cli'
 
 ## Development server
+
+Run 'npm run server' first for starting the Working Json Server.
+This will create a json server at `http://localhost:5000/`.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
