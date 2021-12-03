@@ -3,6 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 Install using 'npm install -g @angular/cli'
 
+##Install Packages
+run 'npm install'
+
 ## Development server
 
 Run 'npm run server' first for starting the Working Json Server.
